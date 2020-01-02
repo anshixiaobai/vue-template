@@ -1,7 +1,7 @@
 # vue-template
 vue-cli  模板开发
 
-npm init
+npm i
 
 npm run dev
 
