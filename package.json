@@ -15,7 +15,7 @@
     "@babel/polyfill": "^7.7.0",
     "@babel/runtime": "^7.7.7",
     "babel-preset-core-js": "0.0.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "jQuery": "^1.7.4",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "vue": "^2.6.11",
